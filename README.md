@@ -12,7 +12,7 @@ The Horiseon Social Solution services page features a large hero banner, three m
 4. [Reference](#reference)
 
 ### Deployed Page
-[Deployed Website via Github Pages](https://neuroventure.github.io/02-Challenge/)
+[Deployed Website via Github Pages](https://neuroventure.github.io/Horiseon-Refactor/)
 
 ![Deployed page Screenshot](neuroventure.github.io_02-Challenge_.png)
 
