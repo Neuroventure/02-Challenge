@@ -1,4 +1,4 @@
-/* general style */
+/* this applys a general style to everything */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -28,7 +28,7 @@ p {
     margin-left: 25px;
 }
 
-/* header and navigation section style */
+/* this is the header and navigation section */
 
 header {
     padding: 20px;
@@ -63,7 +63,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* hero style */
+/* this is the hero class section */
 
 .hero {
     height: 800px;
@@ -74,7 +74,7 @@ header nav ul li {
     background-position: center;
 }
 
-/* main content style */
+/* this is the main content section */
 
 main {
     width: 75%;
@@ -101,7 +101,7 @@ main h2 {
     font-size: 36px;
 }
 
-/* benefits section style */
+/* this is the benefits section */
 
 aside {
     margin-right: 20px;
@@ -130,7 +130,7 @@ aside img {
     max-width: 150px;
 }
 
-/* footer style */
+/* this is the footer section */
 
 footer {
     padding: 30px;
